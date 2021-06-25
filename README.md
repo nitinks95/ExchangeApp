@@ -11,3 +11,5 @@ Read real time data from Coinbase websocket about the incoming requests to the e
 `MIX_ENV=prod mix release exchange`
 * Start the application and get the live update which refreshes every 5 sec
 `_build/prod/rel/exchange/bin/exchange start`
+
+![](asset/runtime.PNG "output")
